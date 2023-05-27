@@ -24,11 +24,7 @@ It will bake all the sequencer assets with the transform track and create a new 
     ![12](https://github.com/NISP2709/Bake-n-Export/assets/51084113/077f160b-656c-4fb1-a780-efba0d74013f)
 
 
+##
+### Created by 
+### Nishit Parikh
 
-<div dir="rtl">Created by</div>
-
-<div dir="rtl">Nishit Parikh</div>
-<div dir="rtl">&nbsp</div>
-
-
-![23](https://github.com/NISP2709/Bake-n-Export/assets/51084113/0cc831b5-d85b-4d8e-a4fe-e559c34bfa4e)
